@@ -1,0 +1,17 @@
+experiment 1
+symbol / no symbol
+content is helpful
+
+experiment 2
+structure / no structure
+clear beginning and ending
+
+experiment 3
+action casual relation
+make sense
+
+experiment4
+
+
+future work
+character interaction

@@ -1,0 +1,1 @@
+[Stand], [Sit], [Roll], [Fall], [Upset], [Laugh], [Mad], [Shock], [Collide], [Walk], [Run], [Jump], [Eat], [Drink], [Dizzy], [Worry], [Think], [Sleep], [Relief]

@@ -1,0 +1,9 @@
+accelerate
+diffusers
+invisible_watermark
+torch
+transformers
+xformers
+pillow
+matplotlib
+pathlib
